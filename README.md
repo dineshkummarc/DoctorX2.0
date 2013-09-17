@@ -9,7 +9,7 @@ The index page UI design of  the old page was like shown below
 
 change this page to the new design like page as shown below
 
-![EC OLD PAGE](https://github.com/Dashboard-X/dashboardx-index/raw/master/screenshots/new-page1.jpg)
+![EC OLD PAGE](https://github.com/Dashboard-X/dashboardx-index/raw/master/screenshots/ec-new-26-july-2013.jpg)
 
 Thanks<br/>
 Dineshkummarc/denno-secqtinstien
